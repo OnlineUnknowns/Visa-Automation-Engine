@@ -1,17 +1,18 @@
-# 🚀 VFS • BLS • TLS Telegram Automation Bot
+# 🚀 Visa VFS BLS TLS 
 
-::: {align="center"}
-`<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=VFS+Global+Automation+Bot;BLS+Appointment+System;TLS+Contact+Center+Integration;Morocco+🇲🇦+Algeria+🇩🇿+Pakistan+🇵🇰" />`{=html}
+<div align="center">
 
-`<br/>`{=html}
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=VFS+BLS+Automation+Bot;Smart+Algeria+Pakistan+Morocco;Fast+Reliable+Scalable+Automation" />
 
-`<img src="https://img.shields.io/badge/Platform-Telegram-blue?style=for-the-badge&logo=telegram"/>`{=html}
-`<img src="https://img.shields.io/badge/API-Integrated-success?style=for-the-badge"/>`{=html}
-`<img src="https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python"/>`{=html}
-`<img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge"/>`{=html}
-:::
+<br/>
 
-------------------------------------------------------------------------
+<img src="https://img.shields.io/github/stars/OnlineUnknowns/Mauritania-BLS-Bot?style=for-the-badge"/>
+<img src="https://img.shields.io/github/forks/OnlineUnknowns/Mauritania-BLS-Bot?style=for-the-badge"/>
+<img src="https://img.shields.io/github/last-commit/OnlineUnknowns/Mauritania-BLS-Bot?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
+
+</div>
 
 ## ⚡ Overview
 
