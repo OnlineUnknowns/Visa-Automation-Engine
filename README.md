@@ -90,6 +90,42 @@ pip install -r requirements.txt
 python bot.py
 ```
 
+
+## 👁 Visitor Counter
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=OnlineUnknowns&label=Visitors&color=blueviolet&style=for-the-badge"/>
+
+</div>
+
+---
+
+## 📞 Contact
+
+<div align="center">
+
+<a href="mailto:Advinistrator@gmail.com">
+<img src="https://img.shields.io/badge/Email-Support-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://wa.me/201286016083">
+<img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<a href="https://github.com/OnlineUnknowns">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+## ⭐ Support
+
+If you like this project, consider giving it a **star ⭐** on GitHub.
+
+
 ------------------------------------------------------------------------
 
 ## ⭐ Support
